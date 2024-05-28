@@ -1,0 +1,29 @@
+.reto_1{
+div{
+    background-color: salmon;
+  }
+}
+.reto_2{
+  .card{
+    background-color: yellowgreen;
+  }
+  .card1{
+    color: aqua;
+  }
+  .card2{
+    color: antiquewhite;
+  }
+}
+.reto_3{
+  #eliminar{
+    background-color: red;
+  }
+}
+a[href="https://platzi.com"] {
+    background-color: chocolate;
+  }
+   
+  .reto_5{
+
+    *{background-color: cornflowerblue;}
+  }
