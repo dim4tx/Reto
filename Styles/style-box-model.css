@@ -1,0 +1,13 @@
+h1{
+    border-bottom: 2px solid #00f;
+}
+h2{
+    border: 1px #AAA solid;
+}
+.list1{
+    border-top: 4px #f00 dotted;
+    border-bottom: 4px #f00 dotted;
+}
+.list2{
+    border: 2px #0f0 dashed;
+}
